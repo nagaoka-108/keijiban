@@ -1,0 +1,169 @@
+
+.logo img {
+    width: 300px;
+}
+
+header {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+
+header ul {
+    list-style-type: none;
+    line-height: 50px;
+}
+
+header ul li {
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+}
+
+
+main {
+    clear: both;
+}
+
+.main-container {
+    width: 100%;
+    margin-top: 30px;
+}
+
+
+.left{
+    float: left;
+    width: 70%;
+    margin-right: 50px;
+    margin-left: 10px;
+}
+
+.left h1 {
+    border-left: 5px black solid;
+    border-bottom: 3px black solid;
+    font-size: auto;
+    padding-left: 10px;
+}
+
+.left h2 {
+    border-left: 5px red solid;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+
+.left form {
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+}
+
+.left form div {
+    padding-top: 6px;
+    padding-left: 15px;
+    padding-bottom: 6px;
+}
+
+.left .text,.textarea {
+    border: 1px #dfdfdd solid;
+    background-color: #fff;
+    color: #999;
+    padding: 5px;
+}
+
+.left .textarea {
+    width: 50%;
+}
+
+.left .submit {
+    background-color: #bfbfbf;
+    color: white;
+    border: 1px lightgray solid;
+    border-bottom: 2px gray solid;
+    border-radius: 5px;
+    padding: 4px 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+
+
+.kiji {
+    width: 100%;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    padding-left: 20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.kiji h3 {
+    border-bottom: 1px lightgray solid;
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+.contents {
+    padding-right: 20px;
+    margin-bottom: 5px;
+}
+
+.handlename {
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.right {
+    float: left;
+    width: 25%;
+    margin-top: 35px;
+}
+
+.right h4 {
+    border-bottom: 2px black dotted;
+}
+
+.right ul {
+    list-style-type: none;
+    padding-left: -20px;
+}
+
+.right ul li {
+    padding-left: -20px;
+    padding-top: 10px;
+}
+
+
+
+
+
+
+
+footer {
+    clear: left;
+    width: 90%;
+    height: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
